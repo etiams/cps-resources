@@ -14,6 +14,8 @@ See also Oleg Kiselyov's awesome list [_"Continuations and Delimited Control"_](
  - [CHICKEN Scheme](https://call-cc.org/) -- A compiler from Scheme to continuation-passing C code.
  - [`include/metalang99/eval/rec.h`](https://github.com/hirrolot/metalang99/blob/master/include/metalang99/eval/rec.h) -- Continuation-passing recursion for the C/C++ preprocessor.
  - [`CC-delcont`](https://hackage.haskell.org/package/CC-delcont) -- Delimited continuations and dynamically scoped variables.
+ - [`cl-cont`](https://quickref.common-lisp.net/cl-cont.html) -- A library that implements continuations for Common Lisp by CPS transform.
+ - [`cl-coroutine`](https://github.com/takagi/cl-coroutine) -- A coroutine library for Common Lisp based on `cl-cont`.
 
 ## Books
 
