@@ -139,4 +139,5 @@ See also Oleg Kiselyov's awesome list [_"Continuations and Delimited Control"_](
  - [_"An argument against call/cc"_](https://okmij.org/ftp/continuations/against-callcc.html) by Oleg Kiselyov.
  - [_"By example: Continuation-passing style in JavaScript"_](https://matt.might.net/articles/by-example-continuation-passing-style/) by Matt Might.
  - [_"On Recursion, Continuations and Trampolines"_](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/) by Eli Bendersky.
+ - [_"Into CPS, never to return"_](https://bernsteinbear.com/blog/cps/) by Max Bernstein.
  - [_"The Best Refactoring You've Never Heard Of"_](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html) by Jimmy Koppel.
