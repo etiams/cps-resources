@@ -113,6 +113,8 @@ See also Oleg Kiselyov's awesome list [_"Continuations and Delimited Control"_](
 
  - Maurer, Luke, et al. "Compiling without continuations." Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation. 2017.
    <br>[URL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf), [webarchive](http://web.archive.org/web/20250611064636/https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf)
+ - Davis, Milo, William Meehan, and Olin Shivers. "No-brainer CPS conversion (functional pearl)." Proceedings of the ACM on Programming Languages 1.ICFP (2017): 1-25.
+   <br>[URL](https://www.khoury.northeastern.edu/home/shivers/papers/nobrainer-cps.pdf), [webarchive](http://web.archive.org/web/20240711132258/https://www.khoury.northeastern.edu/home/shivers/papers/nobrainer-cps.pdf)
 
 ### 2018
 
